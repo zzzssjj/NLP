@@ -64,6 +64,7 @@ def sasuke_mission():
     return new_world
 ```
 
+## 我最喜欢的环境管理工具是conda
 <img src="tupian/pic2.png" alt="NLP架构图" width="200">
 
 ## 我可以在IDE上使用我建立的虚拟环境
