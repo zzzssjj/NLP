@@ -1,6 +1,6 @@
 # 宇智波佐助的自我介绍
 
-<img src="tupian/zz.webp" alt="宇智波佐助" width="200">
+<img src="tupian/pic3.webp" alt="宇智波佐助" width="200">
 
 大家好，我是**宇智波佐助**，我的身份是*木叶隐村的宇智波一族幸存者、复仇者*。以下是我的自我介绍。
 
@@ -64,4 +64,7 @@ def sasuke_mission():
     return new_world
 ```
 
-<img src="tupian/NLP-ZSJ.png" alt="NLP架构图" width="200">
+<img src="tupian/pic2.png" alt="NLP架构图" width="200">
+
+在VScode使用虚拟环境
+<img src="tupian/pic.png" alt="图片" width="200">
