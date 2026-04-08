@@ -1,6 +1,6 @@
 # 宇智波佐助的自我介绍
 
-<img src="tupian/pic3.webp" alt="宇智波佐助" width="200">
+<img src="tupian/pic3.webp" alt="宇智波佐助" width="500">
 
 大家好，我是**宇智波佐助**，我的身份是*木叶隐村的宇智波一族幸存者、复仇者*。以下是我的自我介绍。
 
@@ -64,7 +64,7 @@ def sasuke_mission():
 ```
 
 ## 我最喜欢的环境管理工具是conda
-<img src="tupian/pic2.png" alt="NLP架构图" width="200">
+<img src="tupian/pic2.png" alt="NLP架构图" width="500">
 
 ## 我可以在IDE上使用我建立的虚拟环境
-<img src="tupian/pic.png" alt="图片" width="200">
+<img src="tupian/pic.png" alt="图片" width="500">
